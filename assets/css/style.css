@@ -34,6 +34,12 @@ body {
     margin: 15px auto;
 }
 
+#userName ul {
+    max-width: 640px;
+    text-align: left;
+    margin: 0 auto;
+}
+
 #links {
     max-width: 675px;
     width: auto;
