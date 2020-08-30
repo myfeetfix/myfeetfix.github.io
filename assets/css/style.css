@@ -29,6 +29,11 @@ body {
     text-decoration: none;
 }
 
+#userName p {
+    max-width: 1170px;
+    margin: 15px auto;
+}
+
 #links {
     max-width: 675px;
     width: auto;
